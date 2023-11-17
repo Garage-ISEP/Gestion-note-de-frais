@@ -2,4 +2,6 @@
 
 mon projet test 2
 
-Version 0.0.1
+Vive le coder
+
+Version 0.0.2
